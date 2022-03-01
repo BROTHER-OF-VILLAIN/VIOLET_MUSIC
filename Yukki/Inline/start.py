@@ -31,7 +31,7 @@ def start_pannel():
         buttons = [
             [
                 InlineKeyboardButton(
-                    text="🗂 Helper Commands Menu", callback_data="shikhar"
+                    text="🗂 Helper Commands Menu", callback_data="D C BOTS"
                 ),
             ],
             [
@@ -45,7 +45,7 @@ def start_pannel():
         buttons = [
             [
                 InlineKeyboardButton(
-                    text="🗂 Helper Commands Menu", callback_data="shikhar"
+                    text="🗂 Helper Commands Menu", callback_data="sD C BOTS"
                 ),
             ],
             [
@@ -64,7 +64,7 @@ def start_pannel():
         buttons = [
             [
                 InlineKeyboardButton(
-                    text="🗂 Helper Commands Menu", callback_data="shikhar"
+                    text="🗂 Helper Commands Menu", callback_data="D C BOTS"
                 ),
             ],
             [
@@ -83,7 +83,7 @@ def start_pannel():
         buttons = [
             [
                 InlineKeyboardButton(
-                    text="🗂 Helper Commands Menu", callback_data="shikhar"
+                    text="🗂 Helper Commands Menu", callback_data="D C BOTS"
                 ),
             ],
             [
@@ -204,7 +204,7 @@ def setting_markup():
         ],
         [
             InlineKeyboardButton(text="✖️ Close", callback_data="close"),
-            InlineKeyboardButton(text="🔙 Go Back", callback_data="okaybhai"),
+            InlineKeyboardButton(text="🔙 Go Back", callback_data="ok beiii"),
         ],
     ]
     return f"🔧  **{MUSIC_BOT_NAME} Settings**", buttons
