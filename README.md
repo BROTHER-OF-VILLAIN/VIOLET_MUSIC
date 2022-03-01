@@ -1,3 +1,5 @@
+<p align="center"><img src="https://telegra.ph/file/842b25c70f113d20f67c1.jpg" alt="ICON" width="250" height="250"/></p>
+
 <h1 align="center"><b> ⚡ 𝙑𝞘𝞗𝙇𝞝𝞣 𝞛𝙐𝙎𝞘𝘾 ⚡ </b></h1>
 
 <h4 align="center">
