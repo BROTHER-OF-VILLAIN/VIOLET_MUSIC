@@ -22,7 +22,7 @@ A Powerful Telegram Music+Video Bot by which you can stream songs, videos and ev
 > Those two vars are not Mandatory! You can leave them blank too. 
     
 <h4>Click the button below to deploy 𝙑𝞘𝞗𝙇𝞝𝞣 𝞛𝙐𝙎𝞘𝘾 on Heroku!</h4>    
-[![VIOLETᴠᴄ ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BROTHER-OF-VILLAIN/VIOLET-MUSIC)
+[![ᴠᴄ ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BROTHER-OF-VILLAIN/VIOLET-MUSIC)
     
 </details>
 
