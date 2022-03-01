@@ -1,4 +1,4 @@
-<p align="center"><Λ Ł Ξ X Λ></p>
+<h1 align="center"><b> ⚡ Λ Ł Ξ X Λ⚡ </b></h1>
 
 <h4 align="center">
     A Telegram Music+video Bot written in Python using Pyrogram and Py-Tgcalls 
