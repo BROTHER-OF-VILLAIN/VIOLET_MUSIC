@@ -21,11 +21,8 @@ The easiest way to deploy this Bot is via Heroku.
 
 ## Contact & Support
 
-- [Telegram Channel](https://t.me/OfficialYukki)
-- [Telegram Support Group](https://t.me/OfficialYukkiSupport)
-- [Contact Owner](https://t.me/NotReallyShikhar)
+- [Telegram Channel](https://t.me/DC_bot_updates)
+- [Telegram Support Group](https://t.me/DC_bots_support)
+- [Contact Owner](https://t.me/The_Dsouza_Crew)
 
 
-## License
-
-Distributed under the [GNU General Public License v3.0 License.](https://github.com/notreallyshikhar/YukkiMusicBot/blob/main/LICENSE) See `LICENSE.md` for more information.
