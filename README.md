@@ -13,17 +13,11 @@ A Powerful Telegram Music+Video Bot by which you can stream songs, videos and ev
 
 
 
-<details>
-<summary><b>🔗 Deploy to Heroku</b></summary>
-<br>
+## ✨ Heroku Deploy ✨
+The easiest way to deploy this Bot is via Heroku.
 
-> Heroku has two vars[ HEROKU_API_KEY & HEROKU_APP_NAME ] for Updater to work. 
-> By setting those two vars you can get logs of your heroku app, set var, edit var, delete vars , check dyno usage and update bot. 
-> Those two vars are not Mandatory! You can leave them blank too. 
-    
-<h4>Click the button below to deploy 𝙑𝞘𝞗𝙇𝞝𝞣 𝞛𝙐𝙎𝞘𝘾 on Heroku!</h4>    
-[![ᴠᴄ ᴅᴇᴘʟᴏʏ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BROTHER-OF-VILLAIN/VIOLET-MUSIC)
-    
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/BROTHER-OF-VILLAIN/VIOLET-MUSIC"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
 </details>
 
 <details>
