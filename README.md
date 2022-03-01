@@ -27,4 +27,4 @@ The easiest way to deploy this Bot is via Heroku.
 - [Telegram Support Group](https://t.me/DC_bots_support)
 - [Contact Owner](https://t.me/The_Dsouza_Crew)
 
-
+Distributed under the [GNU General Public License v3.0 License.](https://github.com/BROTHER-OF-VILLAIN/VIOLET-MUSIC/blob/master/LICENSE) See `LICENSE.md` for more information.
