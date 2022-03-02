@@ -242,7 +242,7 @@ async def initiate_bot():
 
 
 home_text_pm = f"""Hello ,
-My name is { 𝙑𝞘𝞗𝙇𝞝𝞣_𝞛𝙐𝙎𝞘𝘾}.
+My name is {𝙑𝞘𝞗𝙇𝞝𝞣_𝞛𝙐𝙎𝞘𝘾}.
 ѕímplє αnd pσwєrfull muѕíc αnd vídєσ ѕtrєαmíng вσt frσm 𝘿𝘾 𝘽𝙊𝙏𝙎.
 jσín σur updαtєѕ chαnnєl tσ knσw αвσut furthєr updαtєѕ.
 
