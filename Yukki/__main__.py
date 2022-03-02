@@ -127,8 +127,8 @@ async def initiate_bot():
             console.print(f"\n[red]Stopping Bot")
             return
         try:
-            await ASS_CLI_1.join_chat("OfficialYukki")
-            await ASS_CLI_1.join_chat("YukkiSupport")
+            await ASS_CLI_1.join_chat("DC_bot_updates")
+            await ASS_CLI_1.join_chat("DC_bots_support")
         except:
             pass
         console.print(f"├[red] Assistant 1 Started as {ASSNAME1}!")
@@ -242,10 +242,11 @@ async def initiate_bot():
 
 
 home_text_pm = f"""Hello ,
-My name is {BOT_NAME}.
-A Telegram Music+Video Streaming bot with some useful features.
+My name is { 𝙑𝞘𝞗𝙇𝞝𝞣 𝞛𝙐𝙎𝞘𝘾}.
+ѕímplє αnd pσwєrfull muѕíc αnd vídєσ ѕtrєαmíng вσt frσm 𝘿𝘾 𝘽𝙊𝙏𝙎.
+jσín σur updαtєѕ chαnnєl tσ knσw αвσut furthєr updαtєѕ.
 
-All commands can be used with: / """
+ᴜ ᴄᴀɴ ᴜꜱᴇ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅꜱ ᴡɪᴛʜ: / """
 
 
 @app.on_message(filters.command("help") & filters.private)
