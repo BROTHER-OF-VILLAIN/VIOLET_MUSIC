@@ -243,8 +243,11 @@ async def initiate_bot():
 
 home_text_pm = f"""Hello ,
 My name is {BOT_NAME}.
-ѕímplє αnd pσwєrfull muѕíc αnd vídєσ ѕtrєαmíng вσt frσm 𝘿𝘾 𝘽𝙊𝙏𝙎.
-jσín σur updαtєѕ chαnnєl tσ knσw αвσut furthєr updαtєѕ.
+ѕímplє αnd pσwєrfull muѕíc αnd 
+vídєσ ѕtrєαmíng вσt frσm 𝘿𝘾 𝘽𝙊𝙏𝙎.
+
+jσín σur updαtєѕ chαnnєl 
+tσ knσw αвσut furthєr updαtєѕ.
 
 ᴜ ᴄᴀɴ ᴜꜱᴇ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅꜱ ᴡɪᴛʜ: / """
 
