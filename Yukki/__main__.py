@@ -241,8 +241,8 @@ async def initiate_bot():
     console.print(f"\n[red]Stopping Bot")
 
 
-home_text_pm = f"""Hello ,
-My name is {BOT_NAME}.
+home_text_pm = f"""hєllσ ,
+ím {BOT_NAME}.
 ѕímplє αnd pσwєrfull muѕíc αnd 
 vídєσ ѕtrєαmíng вσt frσm 𝘿𝘾 𝘽𝙊𝙏𝙎.
 
