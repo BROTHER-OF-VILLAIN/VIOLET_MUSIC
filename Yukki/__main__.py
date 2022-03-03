@@ -127,8 +127,8 @@ async def initiate_bot():
             console.print(f"\n[red]Stopping Bot")
             return
         try:
-            await ASS_CLI_1.join_chat("DC_bot_updates")
-            await ASS_CLI_1.join_chat("DC_bots_support")
+            await ASS_CLI_1.join_chat("DCbot_updates")
+            await ASS_CLI_1.join_chat("DCbots_support")
         except:
             pass
         console.print(f"├[red] Assistant 1 Started as {ASSNAME1}!")
