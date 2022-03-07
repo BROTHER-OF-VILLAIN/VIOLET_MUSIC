@@ -167,7 +167,7 @@ options_Genre = [
     "Lofi",
     "Bollywood",
     "Hollywood",
-    "Punjabi",
+    "Malayalam",
     "Others",
 ]
 
