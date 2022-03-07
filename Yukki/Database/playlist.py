@@ -8,7 +8,7 @@ playlistdb_sad = db.playlistsad
 playlistdb_party = db.playlistparty
 playlistdb_bollywood = db.playlistbollywood
 playlistdb_hollywood = db.playlisthollywood
-playlistdb_punjabi = db.playlistmalayalam
+playlistdb_malayalam = db.playlistmalayalam
 playlistdb_others = db.playlistothers
 
 
