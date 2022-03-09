@@ -3,7 +3,7 @@
 <h1 align="center"><b> ⚡ 𝙑𝞘𝞗𝙇𝞝𝞣 𝞛𝙐𝙎𝞘𝘾 ⚡ </b></h1>
 
 <h4 align="center">
-    A Telegram Music+video Bot written in Python using Pyrogram and Py-Tgcalls 
+    ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜꜱɪᴄ ᴀɴᴅ ᴠɪᴅᴇᴏ ꜱᴛʀᴇᴀᴍɪɴɢ ʙᴏᴛ ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩyᴛʜᴏɴ ᴜꜱɪɴɢ ᴩyʀᴏɢʀᴀᴍ ᴀɴᴅ ᴩy-ᴛɢᴄᴀʟʟꜱ 
 </h4>
 <p align="center">
     <a href="http://t.me/Violet_vcbot"> Ready-To-Use Bot </a> •
