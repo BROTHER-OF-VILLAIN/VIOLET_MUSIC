@@ -4,7 +4,8 @@
 
 <h4 align="center">
     ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜꜱɪᴄ ᴀɴᴅ ᴠɪᴅᴇᴏ ꜱᴛʀᴇᴀᴍɪɴɢ ʙᴏᴛ 
-    ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩyᴛʜᴏɴ ᴜꜱɪɴɢ ᴩyʀᴏɢʀᴀᴍ ᴀɴᴅ ᴩy-ᴛɢᴄᴀʟʟꜱ 
+    ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩyᴛʜᴏɴ ᴜꜱɪɴɢ ᴩyʀᴏɢʀᴀᴍ ᴀɴᴅ 
+    ᴩy-ᴛɢᴄᴀʟʟꜱ 
 </h4>
 <p align="center">
     <a href="http://t.me/Violet_vcbot"> Ready-To-Use Bot </a> •
